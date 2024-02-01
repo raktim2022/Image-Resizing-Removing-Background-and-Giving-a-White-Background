@@ -2,5 +2,5 @@
 ## Python version required
 python: >3.7, <3.12
 ## Install
-pip install rembg -- used to remove background
-pip install pillow -- used to import images from folder
+- pip install rembg -- used to remove background
+- pip install pillow -- used to import images from folder
